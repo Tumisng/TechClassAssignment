@@ -6,5 +6,5 @@ y = ("what is your y?")
 z = x + y
 
 print("hello,", name)
-print("your answer is")
-print(z)
+print("your answer is", z)
+
