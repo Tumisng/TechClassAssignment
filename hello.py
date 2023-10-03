@@ -5,6 +5,8 @@ y = ("what is your y?")
 
 z = x + y
 
+z = x - y
+
 print("hello,", name)
 print("your answer is", z)
 
